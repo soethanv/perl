@@ -1,0 +1,22 @@
+#!/usr/bin/perl
+
+open(OUT, "> $ARGV[0].html") or die;
+
+@lines = <ARGV>;
+chop @lines;
+chop @lines;
+
+for($i=0; $i < @lines; $i++){
+	if ($lines[$i] =~ /^(.*)\t(.*)\t(.*)\t(.*)\t(.*)\t(.*)\t(.*)\t(.*)\t(.*)$/){
+		if( $i%2 == 0){
+			print OUT "<tr bgcolor=\"#DDEBF7\"><td>$1</td><td>$2</td><td>$3</td><td>$4</td><td>$5</td><td>$6</td><td>$7</td><td>$8</td><td>$9</td></tr>\n";
+		}else{
+			print OUT "<tr><td>$1</td><td>$2</td><td>$3</td><td>$4</td><td>$5</td><td>$6</td><td>$7</td><td>$8</td><td>$9</td></tr>\n";
+		}
+
+		if( $4 eq "Office Hour" || $4 eq "office hour"){
+			print OUT "<tr bgcolor=\"#CCCCCC\" style=\"line-height:5px\"><td colspan=\"9\">&nbsp;</td></tr>\n";
+		}
+	}
+}
+
