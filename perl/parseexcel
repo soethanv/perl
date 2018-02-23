@@ -1,0 +1,34 @@
+#!/usr/bin/perl
+
+$currentpath = `/bin/pwd`;
+chop $currentpath;
+
+@lines = <ARGV>;
+
+$title = shift @lines; #not using title
+$fl = $lines[0];
+if ($fl =~ /^(.*),.*,.*,.*,.*,.*,.*,.*,.*$/){
+	$cname = $1;
+}
+open(OUT, ">$cname") or die;
+open(OUT2, ">filenames") or die;
+print OUT2 "$currentpath/$cname\n";
+#print OUT $fl;
+foreach $l (@lines){
+	if ($l =~ /^(.*),.*,.*,.*,.*,.*,.*,.*,.*,.*$/){
+		if($cname eq $1){
+			print OUT $l;
+		}else{
+			if( $1 eq ""){
+				## $cname = "empty";
+				next;
+			}else{
+				$cname = $1;
+			}	
+			open(OUT, ">$cname") or die;
+			print OUT $l;
+			print OUT2 "$currentpath/$cname\n";
+		}	
+	}
+}
+

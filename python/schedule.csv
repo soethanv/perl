@@ -1,0 +1,441 @@
+Dis;Crs;Sec;Instructor;Day;Start;End;Location;SI Leader
+ACC;2013;3;Ross, Stephanie;Monday;12:00 PM;12:50 PM;JPL Study Room 5;Heather W.
+ACC;2013;3;Ross, Stephanie;Wednesday;1:00 PM;1:50 PM;JPL Study Room 11;Heather W.
+ACC;2013;3;Ross, Stephanie;Friday;11:00 AM;11:50 AM;JPL Study Room 3;Heather W.
+ACC;2013;3;Office Hour;Tuesday;10:00 AM;10:50 AM;JPL 4.02.08;Heather W.
+ACC;2013;5;Fasci, Martha;Tuesday;11:30 AM;12:20 PM;JPL Study Room 5;Paulina M.
+ACC;2013;5;Fasci, Martha;Wednesday;5:00 PM;5:50 PM;JPL Study Room 5;Paulina M.
+ACC;2013;5;Fasci, Martha;Friday;2:00 PM;2:50 PM;JPL Study Room 5;Paulina M.
+ACC;2013;5;Office Hour;Friday;3:00 PM;4:50 PM;JPL 4.02.08;Paulina M.
+ACC;2013;6;Preston, Gaye;Monday;6:00 PM;6:50 PM;JPL Study Room 5;Anna L.
+ACC;2013;6;Preston, Gaye;Wednesday;11:00 AM;11:50 AM;JPL Study Room 5;Anna L.
+ACC;2013;6;Preston, Gaye;Wednesday;1:00 PM;1:50 PM;JPL Study Room 7;Anna L.
+ACC;2013;6;Office Hour;Monday;5:00 PM;5:50 PM;JPL 4.02.08;Anna L.
+ACC;2013;8 & 9;Pickard, Andrew;Tuesday;12:00 PM;12:50 PM;os BB 2.01.10;Jeremy P.
+ACC;2013;8 & 9;Pickard, Andrew;Wednesday;2:00 PM;2:50 PM;JPL Study Room 9;Jeremy P.
+ACC;2014;9 & 9;Pickard, Andrew;Thursday;1:00 PM;1:50 PM;JPL Study Room 10;Jeremy P.
+ACC;2013;8 & 9;Pickard, Andrew;Thursday;7:30 PM;8:20 PM;JPL Study Room 3;Jeremy P.
+ACC;2013;8 & 9;Office Hour;Wednesday;3:00 PM;3:50 PM;JPL 4.02.08;Jeremy P.
+AST;1013;1,3&4;Drozdov, Dina;Monday;4:00 PM;4:50 PM;JPL Study Room 8;Clarence B.
+AST;1013;1,3&4;Drozdov, Dina;Thursday;3:00 PM;3:50 PM;JPL Study Room 10;Clarence B.
+AST;1013;1,3&4;Drozdov, Dina;Friday;2:00 PM;2:50 PM;JPL Study Room 8;Clarence B.
+AST;1013;1,3&4;Office Hour;Tuesday;12:00 PM;12:50 PM;JPL 4.02.08;Clarence B.
+BIO;1233;1 & 2;Dalterio, Susan;Monday;1:00 PM;1:50 PM;MH 3.03.16;Anglea C.
+BIO;1233;1 & 2;Dalterio, Susan;Wednesday ;2:00 PM;2:50 PM;JPL Study Room 10;Anglea C.
+BIO;1233;1 & 2;Dalterio, Susan;Thursday;11:30 AM;12:20 PM;MS 2.03.02;Anglea C.
+BIO;1233;1 & 2;Office Hour;Monday;12:00 PM;12:50 PM;JPL 4.02.08;Anglea C.
+BIO;1233;3;Haro, Luis;Tuesday;1:00 PM;1:50 PM;os FLN 3.02.02;Hunter C.
+BIO;1233;3;Haro, Luis;Wednesday;4:00 PM;4:50 PM;JPL Study Room 6;Hunter C.
+BIO;1233;3;Haro, Luis;Thursday;12:00 PM;12:50 PM;JPL Study Room 8;Hunter C.
+BIO;1233;3;Office Hour;Friday;10:00 AM;10:50 AM;JPL 4.02.08;Hunter C.
+BIO;1404;0A1;Derrick, Brian;Monday;1:00 PM;1:50 PM;MH 2.01.08;Rebecca T.
+BIO;1404;0A1;Derrick, Brian;Wednesday;10:00 AM;10:50 AM;JPL Study Room 3;Rebecca T.
+BIO;1404;0A1;Derrick, Brian;Thursday;4:00 PM;4:50 PM;JPL Study Room 3;Rebecca T.
+BIO;1404;0A1;Office Hour;Wednesday;9:00 AM;9:50 AM;JPL 4.02.08;Rebecca T.
+BIO;1404;0B1;Cassill, Aaron;Monday;1:00 PM;1:50 PM;MH 2.01.04;Raja C.
+BIO;1404;0B1;Cassill, Aaron;Tuesday;1:00 PM;1:50 PM;JPL Study Room 8;Raja C.
+BIO;1404;0B1;Cassill, Aaron;Thursday;2:00 PM;2:50 PM;JPL Study Room 6;Raja C.
+BIO;1404;0B1;Office Hour;Wednesday;2:00 PM;2:50 PM;JPL 4.02.08;Raja C.
+BIO;1404;0C1;Jaffe, David;Monday;9:00 AM;9:50 AM;JPL Study Room 3;Iriana Vega
+BIO;1404;0C1;Jaffe, David;Wednesday;9:00 AM;9:50 AM;JPL Study Room 3;Iriana Vega
+BIO;1404;0C1;Jaffe, David;Friday;9:00 AM;9:50 AM;JPL Study Room 3;Iriana Vega
+BIO;1404;0C1;Office Hour;Tuesday;3:00 PM;3:50 PM;JPL 4.02.08;Iriana Vega
+BIO;1404;0D1;Barea-Rodriguez, Edwin;Monday;3:00 PM;3:50 PM;MS 2.02.54;Raul H.
+BIO;1404;0D1;Barea-Rodriguez, Edwin;Tuesday;6:00 PM;6:50 PM;JPL Study Room 6;Raul H.
+BIO;1404;0D1;Barea-Rodriguez, Edwin;Thursday;4:00 PM;4:50 PM;JPL Study Room 10;Raul H.
+BIO;1404;0D1;Office Hour;Monday;10:00 AM;10:50 AM;JPL 4.02.08;Raul H.
+BIO;1404;OE1;Santamaria, Fidel;Tuesday;12:00 PM;12:50 PM;JPL Study Room 4;Katelyn M.
+BIO;1404;OE1;Santamaria, Fidel;Wednesday;1:00 PM;1:50 PM;JPL Study Room 6;Katelyn M.
+BIO;1404;OE1;Santamaria, Fidel;Thursday;2:30 PM;3:20 PM;JPL Study Room 4;Katelyn M.
+BIO;1404;OE1;Office Hour;Monday;11:00 AM;11:50 AM;JPL 4.02.08;Katelyn M.
+BIO;1414;0A1 & 0C1;Saygin, Nazan;Monday ;4:00 PM;4:50 PM;JPL Study Room 7;Rebecca T.
+BIO;1414;0A1 & 0C1;Saygin, Nazan;Tuesday;4:00 PM;4:50 PM;JPL Study Room 7;Rebecca T.
+BIO;1414;0A1 & 0C1;Saygin, Nazan;Wednesday;1:00 PM;1:50 PM;MH 2.01.08;Rebecca T.
+BIO;1414;0A1 & 0C1;Office Hour;Wednesday;9:00 AM;9:50 AM;JPL 4.02.08;Rebecca T.
+BIO;1414;0D1;Saygin, Nazan;Wednesday;12:00 PM;12:50 PM;JPL Study Room 3;Gregory M.
+BIO;1414;0D1;Saygin, Nazan;Thursday;1:00 PM;1:50 PM;JPL Study Room 9;Gregory M.
+BIO;1414;0D1;Saygin, Nazan;Friday;10:00 AM;10:50 AM;JPL Study Room 9;Gregory M.
+BIO;1414;0D1;Office Hour;Monday;12:00 PM;12:50 PM;JPL 4.02.08;Gregory M.
+BIO;2313;1;Nuckels, Richard;Tuesday;10:00 AM;10:50 AM;JPL Study Room 6;Julian E.
+BIO;2313;1;Nuckels, Richard;Wednesday;12:00 PM;12:50 PM;MS 2.02.20;Julian E.
+BIO;2313;1;Nuckels, Richard;Thursday;10:00 AM;10:50 AM;JPL Study Room 6;Julian E.
+BIO;2313;1;Office Hour;Monday;1:00 PM;1:50 PM;JPL 4.02.08;Julian E.
+BIO;2313;2;Lundell, Martha;Tuesday;1:00 PM;1:50 PM;JPL Study Room 5;Leema H.
+BIO;2313;2;Lundell, Martha;Wednesday;2:00 PM;2:50 PM;JPL Study Room 5;Leema H.
+BIO;2313;2;Lundell, Martha;Thursday;11:30 AM;12:20 PM;JPL Study Room 5;Leema H.
+BIO;2313;2;Office Hour;Thursday;1:00 PM;1:50 PM;JPL 4.02.08;Leema H.
+BIO;2313;4;Cassill, Aaron;Monday;11:30 AM;12:20 PM;MS 2.02.20;Megana C.
+BIO;2313;4;Cassill, Aaron;Wednesday;11:30 AM;12:20 PM;MS 2.02.20;Megana C.
+CHE;1004;0A1;Thomas, Susan;Tuesday;3:00 PM;3:50 PM;JPL Study Room 3 ;Samantha S.
+CHE;1004;0A1;Thomas, Susan;Wednesday;12:00 PM;12:50 PM;MH 3.03.12;Samantha S.
+CHE;1004;0A1;Thomas, Susan;Friday;12:00 PM;12:50 PM;MS 2.03.18;Samantha S.
+CHE;1004;0A1;Office Hour;Tuesday;10:00 AM;10:50 AM;JPL 4.02.08;Samantha S.
+CHE;1073;1 & 2;Gold, Keegan;Tuesday;1:00 PM;1:50 PM;os FLN 2.03.08;Pamela O.
+CHE;1073;1 & 2;Gold, Keegan;Wednesday;12:00 PM;12:50 PM;JPL Study Room 7;Pamela O.
+CHE;1073;1 & 2;Gold, Keegan;Thursday;1:00 PM;1:50 PM;JPL Study Room 5;Pamela O.
+CHE;1073;1 & 2;Office Hour;Tuesday;10:00 AM;10:50 AM;JPL 4.02.08;Pamela O.
+CHE;1073;3;Dougherty, Victoria;Monday;1:00 PM;1:50 PM;MS 2.02.02;Matthew R.
+CHE;1073;3;Dougherty, Victoria;Tuesday;3:00 PM;3:50 PM;JPL Study Room 11;Matthew R.
+CHE;1073;3;Dougherty, Victoria;Thursday;3:00 PM;3:50 PM;JPL Study Room 8;Matthew R.
+CHE;1073;3;Office Hour;Friday;9:00 AM;9:50 AM;JPL 4.02.08;Matthew R.
+CHE;1073;5;Gold, Keegan;Monday;3:00 PM;3:50 PM;MS 2.03.10;Victoria L.
+CHE;1073;5;Gold, Keegan;Wednesday;3:00 PM;3:50 PM;MS 2.03.10;Victoria L.
+CHE;1073;5;Gold, Keegan;Thursday;2:30 PM;3:20 PM;JPL Study Room 7;Victoria L.
+CHE;1073;5;Office Hour;Tuesday;3:00 PM;3:50 PM;JPL 4.02.08;Victoria L.
+CHE;1103;1;Ermler, Walter;Monday;2:00 PM;2:50 PM;JPL Study Room 6;Justin N.
+CHE;1103;1;Ermler, Walter;Thursday ;12:00 PM;12:50 PM;JPL Study Room 3;Justin N.
+CHE;1103;1;Ermler, Walter;Friday;10:00 AM;10:50 AM;JPL Study Room 6;Justin N.
+CHE;1103;1;Office Hour;Monday;10:00 AM;10:50 AM;JPL 4.02.08;Justin N.
+CHE;1103;2;Ermler, Walter;Monday;5:00 PM;5:50 PM;os FLN 2.01.12;Amirali V.
+CHE;1103;2;Ermler, Walter;Wednesday;2:00 PM;2:50 PM;os FLN 2.01.12;Amirali V.
+CHE;1103;2;Ermler, Walter;Thursday;12:00 PM;12:50 PM;os FLN 2.01.12;Amirali V.
+CHE;1103;2;Office Hour;Thursday;1:00 PM;1:50 PM;JPL 4.02.08;Amirali V.
+CHE;1103;3;Chen, Banglin;Monday;12:00 PM;12:50 PM;MH 3.03.12;Mosinmi A.
+CHE;1103;3;Chen, Banglin;Wednesday;5:00 PM;5:50 PM;JPL Study Room 9;Mosinmi A.
+CHE;1103;3;Chen, Banglin;Friday;12:00 PM;12:50 PM;MH 3.03.12 ;Mosinmi A.
+CHE;1103;3;Office Hour;Monday;1:00 PM;1:50 PM;JPL 4.02.08;Mosinmi A.
+CHE;1103;4;Davidson, Mark;Monday;5:00 PM;5:50 PM;JPL Study Room 3;Mikaela M.
+CHE;1103;4;Davidson, Mark;Tuesday;1:00 PM;1:50 PM;JPL Study Room 7;Mikaela M.
+CHE;1103;4;Davidson, Mark;Wednesday;5:00 PM;5:50 PM;JPL Study Room 7;Mikaela M.
+CHE;1103;4;Office Hour;Wednesday;10:00 AM;10:50 AM;JPL 4.02.08;Mikaela M.
+CHE;1103;5;Davidson, Mark;Tuesday;5:00 PM;5:50 PM;FLN 2.03.08;Nicolas B.
+CHE;1103;5;Davidson, Mark;Wednesday;12:00 PM;12:50 PM;MH 3.02.32;Nicolas B.
+CHE;1103;5;Davidson, Mark;Thursday;5:00 PM;5:50 PM;FLN 2.03.08;Nicolas B.
+CHE;1103;5;Office Hour;Thursday;3:00 PM;3:50 PM;JPL 4.02.08;Nicolas B.
+CHE;1103;6;Gold, Keegan;Monday;3:00 PM;3:50 PM;BSE 3.01.06;Austin Lee
+CHE;1103;6;Gold, Keegan;Tuesday;10:00 AM;10:50 AM;BSE 3.01.06;Austin Lee
+CHE;1103;6;Gold, Keegan;Thursday;10:00 AM;10:50 AM;BSE 3.01.06;Austin Lee
+CHE;1103;6;Office Hour;Thursday;1:00 PM;1:50 PM;JPL 4.02.08;Austin Lee
+CHE;1113;1;Arman, Hadi;Monday;9:00 AM;9:50 AM;MH 3.02.48;Monica F.
+CHE;1113;1;Arman, Hadi;Wednesday ;9:00 AM;9:50 AM;MH 3.02.48;Monica F.
+CHE;1113;1;Arman, Hadi;Friday ;12:00 PM;12:50 PM;MS 2.02.20;Monica F.
+CHE;1113;1;Office Hour;Friday ;1:00 PM;1:50 PM;JPL 4.02.08;Monica F.
+CHE;1113;2;Kurtz, Donald;Tuesday;12:00 PM;12:50 PM;JPL Study Room 3;Aidan B.
+CHE;1113;2;Kurtz, Donald;Wednesday;4:00 PM;4:50 PM;JPL Study Room 3;Aidan B.
+CHE;1113;2;Kurtz, Donald;Thursday;1:00 PM;1:50 PM;JPL Study Room 3;Aidan B.
+CHE;1113;2;Office Hour;Friday;11:00 AM;11:50 AM;JPL 4.02.08;Aidan B.
+CHE;1113;3;Sadeghi, Raymond;Monday;11:00 AM;11:50 AM;MH 3.02.32;Marissa Y.
+CHE;1113;3;Sadeghi, Raymond;Wednesday;3:00 PM;3:50 PM;MS 2.02.54;Marissa Y.
+CHE;1113;3;Sadeghi, Raymond;Thursday;12:00 PM;12:50 PM;JPL Study Room 3;Marissa Y.
+CHE;1113;3;Office Hour;Thursday;1:00 PM;1:50 PM;JPL 4.02.08;Marissa Y.
+CHE;2603;1;Han, Hyunsoo;Monday;10:00 AM;10:50 AM;JPL Study Room 3;Benjamin J.
+CHE;2603;1;Han, Hyunsoo;Tuesday;1:00 PM;1:50 PM;os BB 3.04.18;Benjamin J.
+CHE;2603;1;Han, Hyunsoo;Wednesday;12:00 PM;12:50 PM;os BB 3.04.18;Benjamin J.
+CHE;2603;1;Office Hour;Thursday;3:00 PM;3:50 PM;JPL 4.02.08;Benjamin J.
+CHE;2603;2;Schanze, Kirk;Tuesday;12:00 PM;12:50 PM;JPL Study Room 6;Anglea C.
+CHE;2603;2;Schanze, Kirk;Wednesday;11:00 AM;11:50 AM;JPL Study Room 6;Anglea C.
+CHE;2603;2;Schanze, Kirk;Thursday;6:00 PM;6:50 PM;JPL Study Room 4;Anglea C.
+CHE;2603;2;Office Hour;Monday;12:00 PM;12:50 PM;JPL 4.02.08;Anglea C.
+CHE;2603;3;Dougherty, Victoria;Monday;10:00 AM;10:50 AM;os MH 2.01.12;Gregory R.
+CHE;2603;3;Dougherty, Victoria;Wednesday;2:00 PM;2:50 PM;os MH 2.01.12;Gregory R.
+CHE;2603;3;Dougherty, Victoria;Thursday;7:30 PM;8:20 PM;os MH 2.01.12;Gregory R.
+CHE;2603;3;Office Hour;Friday;9:00 AM;9:50 AM;JPL 4.02.08;Gregory R.
+CHE;2603;4 & 5;Negrete, George;Monday ;3:00 PM;3:50 PM;MS 2.03.08 ;Alejandro R.
+CHE;2603;4 & 5;Negrete, George;Tuesday;1:00 PM;1:50 PM;os FLN 2.03.08;Alejandro R.
+CHE;2603;4 & 5;Negrete, George;Thursday;1:00 PM;1:50 PM;os FLN 2.03.08;Alejandro R.
+CHE;2603;4 & 5;Negrete, George;Friday ;3:00 PM;3:50 PM;FLN 2.03.08;Alejandro R.
+CHE;2603;4 & 5;Office Hour;Friday;10:00 AM;10:50 AM;JPL 4.02.08;Alejandro R.
+CHE;2603;6;Dougherty, Victoria;Monday;5:00 PM;5:50 PM;JPL Study Room 7;Mark E.
+CHE;2603;6;Dougherty, Victoria;Wednesday;12:00 PM;12:50 PM;MS 2.03.18;Mark E.
+CHE;2603;6;Dougherty, Victoria;Thursday;5:30 PM;6:20 PM;JPL Study Room 5;Mark E.
+CHE;2603;6;Office Hour;Wednesday;11:00 AM;11:50 AM;JPL 4.02.08;Mark E.
+CHE;2603;7;Aguilar, Hector;Monday;4:00 PM;4:50 PM;MH 3.02.32;Zeinab Y.
+CHE;2603;7;Aguilar, Hector;Tuesday;5:30 PM;6:20 PM;MS 2.02.20;Zeinab Y.
+CHE;2603;7;Aguilar, Hector;Thursday;5:30 PM;6:20 PM;MS 2.02.20;Zeinab Y.
+CHE ;2603;4 & 5;Office Hour;Tuesday;3:00 PM;3:50 PM;JPL 4.02.08;Zeinab Y.
+CHE;2603;4 & 5;Office Hour ;Wednesday;3:00 PM;3:50 PM;JPL 4.02.08;Zeinab Y.
+CHE;2603;7;Office Hour;Wednesday;10:00 AM;10:50 AM;JPL 4.02.08;Zeinab Y.
+CRJ;1113;1;Meade, Henry;Monday;12:00 PM;12:50 PM;MH 3.02.48;Anna-Marie D.
+CRJ;1113;1;Meade, Henry;Wednesday ;10:00 AM;10:50 AM;JPL Study Room 4;Anna-Marie D.
+CRJ;1113;1;Meade, Henry;Friday;1:00 PM;1:50 PM;JPL Study Room 5;Anna-Marie D.
+CRJ;1113;1;Office Hour;Wednesday;12:00 PM;12:50 PM;JPL 4.02.08;Anna-Marie D.
+CRJ;1113;2;Bauer, Walter;Monday;2:00 PM;2:50 PM;MS 2.03.18;Anna-Marie D.
+CRJ;1113;2;Bauer, Walter;Wednesday ;2:00 PM;2:50 PM;JPL Study Room 8;Anna-Marie D.
+CRJ;1113;2;Bauer, Walter;Friday;12:00 PM;12:50 PM;JPL Study Room 8;Anna-Marie D.
+CRJ;1113;2;Office Hour;Wednesday;12:00 PM;12:50 PM;JPL 4.02.08;Anna-Marie D.
+ECO;2013;3;Ghossoub, Edgar;Monday;4:00 PM;4:50 PM;JPL Study Room 11;Andre G.
+ECO;2013;3;Ghossoub, Edgar;Wednesday;4:00 PM;4:50 PM;JPL Study Room 11;Andre G.
+ECO;2013;3;Ghossoub, Edgar;Wednesday;7:30 PM;8:20 PM;JPL Study Room 3;Andre G.
+ECO;2013;3;Office Hour;Friday;2:00 PM;2:50 PM;JPL 4.02.08;Andre G.
+ECO;2013;4 & 5;Firoozi, Fathali;Monday;1:00 PM;1:50 PM;MH 3.02.48;Tomiwa O.
+ECO;2013;4 & 5;Firoozi, Fathali;Monday;3:00 PM;3:50 PM;MH 2.02.06;Tomiwa O.
+ECO;2013;4 & 5;Firoozi, Fathali;Wednesday;1:00 PM;1:50 PM;MH 3.02.48;Tomiwa O.
+ECO;2013;4 & 5;Firoozi, Fathali;Wednesday;3:00 PM;3:50 PM;MH 2.02.06;Tomiwa O.
+ECO;2013;4 & 5;Office Hour;Thursday;4:00 PM;4:50 PM;JPL 4.02.08;Tomiwa O.
+ECO;2023;1;Doss, Leslie;Monday;12:00 PM;12:50 PM;JPL Study Room 7;Vincent R.
+ECO;2023;1;Doss, Leslie;Tuesday;4:00 PM;4:50 PM;JPL Study Room 9;Vincent R.
+ECO;2023;1;Doss, Leslie;Wednesday;10:00 AM;10:50 AM;JPL Study Room 6;Vincent R.
+ECO;2023;1;Office Hour;Thursday;4:00 PM;4:50 PM;JPL 4.02.08;Vincent R.
+ECO;2023;2;Welch, Richard;Monday;5:30 PM;6:20 PM;JPL Study Room 6;William H.
+ECO;2023;2;Welch, Richard;Tuesday;2:30 PM;3:20 PM;JPL Study Room 6;William H.
+ECO;2023;2;Welch, Richard;Wednesday;5:30 PM;6:20 PM;JPL Study Room 6;William H.
+ECO;2023;2;Office Hour;Thursday;2:30 PM;3:20 PM;JPL 4.02.08;William H.
+ECO;2023;3;Rightmyer, Johnathan;Monday;5:00 PM;5:50 PM;JPL Study Room 4;Rachel O.
+ECO;2023;3;Rightmyer, Johnathan;Wednesday;5:00 PM;5:50 PM;JPL Study Room 4;Rachel O.
+ECO;2023;3;Rightmyer, Johnathan;Friday;1:00 PM;1:50 PM;JPL Study Room 4;Rachel O.
+ECO;2023;3;Office Hour;Wednesday;1:00 PM;1:50 PM;JPL 4.02.08;Rachel O.
+ECO;2023;4;Flory-Truett, Lila;Tuesday;11:00 AM;11:50 AM;JPL Study Room 7;Maria M.
+ECO;2023;4;Flory-Truett, Lila;Wednesday ;4:00 PM;4:50 PM;os BB 2.01.06;Maria M.
+ECO;2023;4;Flory-Truett, Lila;Thursday;6:00 PM;6:50 PM;os BB 2.01.06;Maria M.
+ECO;2023;4;Office Hour;Tuesday;4:00 PM;4:50 PM;JPL 4.02.08;Maria M.
+GES;1023;2;De Oliver, Miguel;Tuesday;5:00 PM;5:50 PM;JPL Study Room 5;Ryan W.
+GES;1023;2;De Oliver, Miguel;Wednesday;1:00 PM;1:50 PM;JPL Study Room 8;Ryan W.
+GES;1023;2;De Oliver, Miguel;Thursday;1:00 PM;1:50 PM;JPL Study Room 4;Ryan W.
+GES;1023;2;Office Hour;Wednesday;11:00 AM;11:50 AM;JPL 4.02.08;Ryan W.
+GES;2613;2 & 3;Vaughan, James;Monday;3:00 PM;3:50 PM;MH 3.04.20 ;Luis P.
+GES;2613;2 & 3;Vaughan, James;Tuesday;3:00 PM;3:50 PM;JPL Study Room 10;Luis P.
+GES;2613;2 & 3;Vaughan, James;Wednesday;4:00 PM;4:50 PM;MH 3.04.20 ;Luis P.
+GES;2613;2 & 3;Vaughan, James;Friday;1:00 PM;1:50 PM;MH 3.03.12;Luis P.
+GES;2613;2 & 3;Office Hour;Friday;11:00 AM;11:50 AM;JPL 4.02.08;Luis P.
+GES;2613;4;Owens, Raluca;Monday;2:00 PM;2:50 PM;JPL Study Room 4;Sierra R.
+GES;2613;4;Owens, Raluca;Wednesday;4:00 PM;4:50 PM;JPL Study Room 9;Sierra R.
+GES;2613;4;Owens, Raluca;Friday;1:00 PM;1:50 PM;JPL Study Room 11;Sierra R.
+GES;2613;4;Office Hour;Monday;1:00 PM;1:50 PM;JPL 4.02.08;Sierra R.
+GES;2613;5;Melancon, Matthew;Monday;3:00 PM;3:50 PM;JPL Study Room 11;Katie A.
+GES;2613;5;Melancon, Matthew;Tuesday;6:00 PM;6:50 PM;JPL Study Room 5;Katie A.
+GES;2613;5;Melancon, Matthew;Thursday;11:00 AM;11:50 AM;JPL Study Room 3;Katie A.
+GES;2613;5;Office Hour;Tuesday;11:00 AM;11:50 AM;JPL 4.02.08;Katie A.
+GEO;1013;1;Mestas-Nunez, Alberto;Monday ;2:00 PM;2:50 PM;JPL Study Room 10;Brandon G.
+GEO;1013;1;Mestas-Nunez, Alberto;Wednesday ;11:00 AM;11:50 AM;JPL Study Room 4;Brandon G.
+GEO;1013;1;Mestas-Nunez, Alberto;Friday;11:00 AM;11:50 AM;JPL Study Room 4;Brandon G.
+GEO;1013;1;Office Hour;Thursday;11:00 AM;11:50 AM;JPL 4.02.08;Brandon G.
+GEO;1013;2 & 3;Kelley, Jessica;Monday;3:00 PM;3:50 PM;MH 3.03.12;Uchechi N.
+GEO;1013;2 & 3;Kelley, Jessica;Tuesday;3:00 PM;3:50 PM;JPL Study Room 8;Uchechi N.
+GEO;1013;2 & 3;Kelley, Jessica;Tuesday;5:30 PM;6:20 PM;JPL Study Room 3;Uchechi N.
+GEO;1013;2 & 3;Kelley, Jessica;Thursday;5:30 PM;6:20 PM;JPL Study Room 3;Uchechi N.
+GEO;1013;2 & 3;Office Hour;Friday;10:00 AM;10:50 AM;JPL 4.02.08;Uchechi N.
+HIS;1043;1 & 4;Hansen, David;Monday;1:00 PM;1:50 PM;JPL Study Room 3;Heather W.
+HIS;1043;1 & 4;Hansen, David;Wednesday;11:00 AM;11:50 AM;JPL Study Room 3;Heather W.
+HIS;1043;1 & 4;Hansen, David;Friday;1:00 PM;1:50 PM;JPL Study Room 3;Heather W.
+HIS;1043;1 & 4;Office Hour;Tuesday;10:00 AM;10:50 AM;JPL 4.02.08;Heather W.
+HIS;1043;3;Carr-Shanahan, John;Monday;12:00 PM;12:50 PM;MH 2.01.08;Kristen B.
+HIS;1043;3;Carr-Shanahan, John;Wednesday;10:00 AM;10:50 AM;MH 3.03.06;Kristen B.
+HIS;1043;3;Carr-Shanahan, John;Friday;12:00 PM;12:50 PM;MH 3.02.32;Kristen B.
+HIS;1043;3;Office Hour;Monday;9:00 AM;9:50 AM;JPL 4.02.08;Kristen B.
+HIS;1043;5;Turney, Elaine;Monday;12:00 PM;12:50 PM;JPL Study Room 4;Aashish D.
+HIS;1043;5;Turney, Elaine;Wednesday;2:00 PM;2:50 PM;JPL Study Room 11;Aashish D.
+HIS;1043;5;Turney, Elaine;Friday;3:00 PM;3:50 PM;JPL Study Room 3;Aashish D.
+HIS;1043;5;Office Hour;Friday;12:00 PM;12:50 PM;JPL 4.02.08;Aashish D.
+HIS;1043;6 & 9;Hicks, Lesli;Monday;4:00 PM;4:50 PM;JPL Study Room 3;Vincent R.
+HIS;1043;6 & 9;Hicks, Lesli;Tuesday;10:00 AM;10:50 AM;JPL Study Room 3;Vincent R.
+HIS;1043;6 & 9;Hicks, Lesli;Thursday;10:00 AM;10:50 AM;JPL Study Room 3;Vincent R.
+HIS;1043;6 & 9;Office Hour;Thursday;4:00 PM;4:50 PM;JPL 4.02.08;Vincent R.
+HIS;1043;7 & 8;Peterson, Jodi;Monday;1:00 PM;1:50 PM;JPL Study Room 5;Camrie W.
+HIS;1043;7 & 8;Peterson, Jodi;Tuesday;4:00 PM;4:50 PM;JPL Study Room 5;Camrie W.
+HIS;1043;7 & 8;Peterson, Jodi;Wednesday;1:00 PM;1:50 PM;JPL Study Room 5;Camrie W.
+HIS;1043;7 & 8;Peterson, Jodi;Thursday;4:00 PM;4:50 PM;JPL Study Room 5;Camrie W.
+HIS;1043;7 & 8;Office Hour;Wednesday;2:00 PM;2:50 PM;JPL 4.02.08;Camrie W.
+HIS;1043;10;Carlisle, Kimberly;Monday;3:00 PM;3:50 PM;JPL Study Room 6;Hector M.
+HIS;1043;10;Carlisle, Kimberly;Tuesday;7:25 PM;8:15 PM;JPL Study Room 5;Hector M.
+HIS;1043;10;Carlisle, Kimberly;Thursday;7:25 PM;8:15 PM;JPL Study Room 5;Hector M.
+HIS;1043;10;Office Hour;Wednesday;3:00 PM;3:50 PM;JPL 4.02.08;Hector M.
+HIS;1053;1 & 2;Minten, Rhonda;Monday;3:00 PM;3:50 PM;JPL Study Room 3;Aashish D.
+HIS;1053;1 & 2;Minten, Rhonda;Wednesday;12:00 PM;12:50 PM;JPL Study Room 8;Aashish D.
+HIS;1053;1 & 2;Minten, Rhonda;Friday;2:00 PM;2:50 PM;JPL Study Room 3;Aashish D.
+HIS;1053;1 & 2;Office Hour;Friday;12:00 PM;12:50 PM;JPL 4.02.08;Aashish D.
+HIS;1053;3 & 6;Turney, Elaine;Monday;3:00 PM;3:50 PM;MH 3.03.06;Jahna L.
+HIS;1053;3 & 6;Turney, Elaine;Tuesday;11:30 AM;12:20 PM;MS 2.03.02;Jahna L.
+HIS;1053;3 & 6;Turney, Elaine;Wednesday;2:00 PM;2:50 PM;JPL Study Room 6;Jahna L.
+HIS;1053;3 & 6;Turney, Elaine;Thursday;3:00 PM;3:50 PM;JPL Study Room 3;Jahna L.
+HIS;1053;3 & 6;Office Hour;Thursday;2:00 PM;2:50 PM;JPL 4.02.08;Jahna L.
+HIS;1053;4 & 7;Dilley, Jennifer;Monday;3:00 PM;3:50 PM;MH 2.01.08;Katheryn S.
+HIS;1053;4 & 7;Dilley, Jennifer;Tuesday;10:00 AM;10:50 AM;JPL Study Room 4;Katheryn S.
+HIS;1053;4 & 7;Dilley, Jennifer;Wednesday;3:00 PM;3:50 PM;MH 2.01.08;Katheryn S.
+HIS;1053;4 & 7;Office Hour;Thursday ;10:00AM;10:50 AM;JPL 4.02.08;Katheryn S.
+HIS;1053;5 & 8;Hansen, David;Monday;1:00 PM;1:50 PM;MH 3.03.10;Brooke A.
+HIS;1053;5 & 8;Hansen, David;Tuesday;12:00 PM;12:50 PM;MH 3.03.12;Brooke A.
+HIS;1053;5 & 8;Hansen, David;Tuesday;4:00 PM;4:50 PM;MS 2.03.02;Brooke A.
+HIS;1053;5 & 8;Hansen, David;Thursday;11:30 AM;12:20 PM;BB 3.04.04;Brooke A.
+HIS;1053;9;Browning, Robert;Tuesday;6:00 PM;6:50 PM;JPL Study Room 5;Justin B.
+HIS;1053;9;Browning, Robert;Wednesday;5:00 PM;5:50 PM;JPL Study Room 8;Justin B.
+HIS;1053;9;Browning, Robert;Saturday;2:00 PM;2:50 PM;MS 2.02.02;Justin B.
+HIS;1053;9;Office Hour;Thursday;5:00 PM;5:50 PM;JPL 4.02.08;Justin B.
+HIS;1053;10;Peterson, Jodi;Monday;10:00 AM;10:50 AM;JPL Study Room 5;Camrie W.
+HIS;1053;10;Peterson, Jodi;Monday;3:00 PM;3:50 PM;JPL Study Room 5;Camrie W.
+HIS;1053;10;Peterson, Jodi;Wednesday;3:00 PM;3:50 PM;JPL Study Room 5;Camrie W.
+HIS;1053;10;Office Hour;Wednesday;2:00 PM;2:50 PM;JPL 4.02.08;Camrie W.
+HIS;2053;1;Minten, Rhonda;Monday;1:00 PM;1:50 PM;JPL Study Room 8;Sage M.
+HIS;2053;1;Minten, Rhonda;Wednesday;1:00 PM;1:50 PM;MH 3.03.10;Sage M.
+HIS;2053;1;Minten, Rhonda;Friday;1:00 PM;1:50 PM;JPL Study Room 8;Sage M.
+HIS;2053;1;Office Hour;Monday;3:00 PM;3:50 PM;JPL 4.02.08;Sage M.
+HIS;2053;3;Turney, Elaine;Tuesday;11:00 AM;11:50 AM;JPL Study Room 3;Secile G.
+HIS;2053;3;Turney, Elaine;Wednesday;12:00 PM;12:50 PM;JPL Study Room 6;Secile G.
+HIS;2053;3;Turney, Elaine;Thursday;10:00 AM;10:50 AM;JPL Study Room 4;Secile G.
+HIS;2053;3;Office Hour;Thursday;12:00 PM;12:50 PM;JPL 4.02.08;Secile G.
+MS;1023;3;Xu, Kefeng;Monday;4:00 PM;4:50 PM;JPL Study Room 6;Angela G.
+MS;1023;3;Xu, Kefeng;Tuesday;1:00 PM;1:50 PM;JPL Study Room 6;Angela G.
+MS;1023;3;Xu, Kefeng;Wednesday;12:00 PM;12:50 PM;MH 2.02.10;Angela G.
+MS;1023;3;Office Hour;Monday;3:00 PM;3:50 PM;JPL 4.02.08;Angela G.
+MS;1023;4;Sun, Minghe;Tuesday;10:00 AM;10:50 AM;BB 3.04.04;Kaleb H.
+MS;1023;4;Sun, Minghe;Wednesday;11:00 AM;11:50 AM;MH 3.02.32;Kaleb H.
+MS;1023;4;Sun, Minghe;Thursday;10:00 AM;10:50 AM;BB 3.04.04;Kaleb H.
+MS;1023;4;Office Hour;Monday;11:00 AM;11:50 AM;JPL 4.02.08;Kaleb H.
+MS;1023;5;Roberts, Cynthia;Monday;5:00 PM;5:50 PM;JPL Study Room 8;Jack J.
+MS;1023;5;Roberts, Cynthia;Tuesday;5:00 PM;5:50 PM;JPL Study Room 6;Jack J.
+MS;1023;5;Roberts, Cynthia;Thursday ;5:00 PM;5:50 PM;JPL Study Room 8;Jack J.
+MS;1023;5;Office Hour;Monday;2:00 PM;2:50 PM;JPL 4.02.08;Jack J.
+MS;3043;1;Massaro, Kimberly;Tuesday;4:00 PM;4:50 PM;JPL Study Room 6;Hiram N.
+MS;3043;1;Massaro, Kimberly;Wednesday;3:00 PM;3:50 PM;JPL Study Room 11;Hiram N.
+MS;3043;1;Massaro, Kimberly;Thursday;4:00 PM;4:50 PM;JPL Study Room 6;Hiram N.
+MS;3043;1;Office Hour;Wednesday;12:00 PM;12:50 PM;JPL 4.02.08;Hiram N.
+MS;3043;2 & 6;Kone, Bazoumana;Monday;9:00 PM;9:50 PM;BB 2.01.14;Kristy D.
+MS;3043;2 & 6;Kone, Bazoumana;Tuesday;4:00 PM;4:50 PM;JPL Study Room 3;Kristy D.
+MS;3043;2 & 6;Kone, Bazoumana;Wednesday;9:00 PM;9:50 PM;BB 2.01.14;Kristy D.
+MS;3043;2 & 6;Kone, Bazoumana;Thursday;2:30 PM;3:20 PM;JPL Study Room 9;Kristy D.
+MS;3043;2 & 6;Office Hour;Tuesday;5:00 PM;5:50 PM;JPL 4.02.08;Kristy D.
+MS;3043;4;Dell, Jacob;Tuesday;3:00 PM;3:50 PM;os BB 3.03.02;Matteo I.
+MS;3043;4;Dell, Jacob;Thursday;3:00 PM;3:50 PM;JPL Study Room 6;Matteo I.
+MS;3043;4;Dell, Jacob;Friday;12:00 PM;12:50 PM;JPL Study Room 11;Matteo I.
+MS;3043;4;Office Hour;Friday;2:00 PM;2:50 PM;JPL 4.02.08;Matteo I.
+PHY;1603;1 & 4;Koynova, Aneta;Tuesday ;12:00 PM;12:50 PM;os MS Building ;Michael W.
+PHY;1603;1 & 4;Koynova, Aneta;Thursday;12:00 PM;12:50 PM;os MS Building ;Michael W.
+PHY;1603;1 & 4;Koynova, Aneta;Friday ;12:00 PM;12:50 PM;JPL Study Room 6;Michael W.
+PHY;1603;1 & 4;Office Hour;Wednesday ;11:00 AM;12:00PM;JPL 4.02.08;Michael W.
+PHY;1603;2 & 5;Lopez-Lozano, Xochtil;Monday;1:00 PM;1:50 PM;JPL Study Room 4;Wendy H.
+PHY;1603;2 & 5;Lopez-Lozano, Xochtil;Tuesday;2:30 PM;3:20 PM;JPL Study Room 4;Wendy H.
+PHY;1603;2 & 5;Lopez-Lozano, Xochtil;Thursday;12:00 PM;12:50 PM;JPL Study Room 4;Wendy H.
+PHY;1603;2 & 5;Lopez-Lozano, Xochtil;Friday;3:00 PM;3:50 PM;JPL Study Room 4;Wendy H.
+PHY;1603;2 & 5;Office Hour;Thursday;10:00 AM;10:50 AM;JPL 4.02.08;Wendy H.
+PHY;1603;6;Chen, Liao;Monday;2:00 PM;2:50 PM;JPL Study Room 5;Candelario T.
+PHY;1603;6;Chen, Liao;Wednesday;12:00 PM;12:50 PM;JPL Study Room 5;Candelario T.
+PHY;1603;6;Chen, Liao;Friday;11:00 AM;11:50 AM;JPL Study Room 5;Candelario T.
+PHY;1603;6;Office Hour;Monday;11:00 AM;11:50 AM;JPL 4.02.08;Candelario T.
+PHY;1943;1;Sooby Wood, Elizabeth;Monday;10:00 AM;10:50 AM;JPL Study Room 4;Angelly R.
+PHY;1943;1;Sooby Wood, Elizabeth;Tuesday;11:00 AM;11:50 AM;JPL Study Room 6;Angelly R.
+PHY;1943;1;Sooby Wood, Elizabeth;Friday;12:00 PM;12:50 PM;JPL Study Room 4;Angelly R.
+PHY;1943;1;Office Hour;Tuesday ;12:00 PM;12:50 PM;JPL 4.02.08;Angelly R.
+PHY;1943;2;Mayer, Ketheryn;Monday;12:00 PM;12:50 PM;JPL Study Room 3;Jose B.
+PHY;1943;2;Mayer, Ketheryn;Wednesday;1:00 PM;1:50 PM;JPL Study Room 3;Jose B.
+PHY;1943;2;Mayer, Ketheryn;Friday;12:00 PM;12:50 PM;JPL Study Room 3;Jose B.
+PHY;1943;2;Office Hour;Wednesday;10:00 AM;10:50 AM;JPL 4.02.08;Jose B.
+PHY;1943;3;Koinov, Zlatko;Tuesday;1:00 PM;1:50 PM;JPL Study Room 3;Benjamin J.
+PHY;1943;3;Koinov, Zlatko;Wednesday;12:00 PM;12:50 PM;JPL Study Room 4;Benjamin J.
+PHY;1943;3;Koinov, Zlatko;Thursday;2:00 PM;2:50 PM;JPL Study Room 3;Benjamin J.
+PHY;1943;3;Office Hour;Wednesday;1:00 PM;1:50 PM;JPL 4.02.08;Benjamin J.
+PHY;1943;4;Chabanov, Andrey;Monday;2:00 PM;2:50 PM;JPL Study Room 7;Clarence B.
+PHY;1943;4;Chabanov, Andrey;Tuesday;3:00 PM;3:50 PM;JPL Study Room 7;Clarence B.
+PHY;1943;4;Chabanov, Andrey;Wednesday;4:00 PM;4:50 PM;JPL Study Room 7;Clarence B.
+PHY;1943;4;Office Hour;Thursday;12:00 PM;12:50 PM;JPL 4.02.08;Clarence B.
+POL;1013;4 & 5;Floyd, Brent;Monday;1:00 PM;1:50 PM;MH 3.03.12;Gabrielle H.
+POL;1013;4 & 5;Floyd, Brent;Wednesday;4:00 PM;4:50 PM;JPL Study Room 4;Gabrielle H.
+POL;1013;4 & 5;Floyd, Brent;Thursday ;12:00 PM;12:50 PM;os MH P.O.D;Gabrielle H.
+POL;1013;4 & 5;Office Hour;Wednesday ;1:00 PM;1:50 PM;JPL 4.02.08;Gabrielle H.
+POL;1013;6;Floyd, Brent;Monday;1:00 PM;1:50 PM; MH 3.02.32;Katheryn S.
+POL;1013;6;Floyd, Brent;Tuesday;11:30 AM;12:20 PM;os MH 2.01.12;Katheryn S.
+POL;1013;6;Floyd, Brent;Wednesday;1:00 PM;1:50 PM;MH 3.03.16;Katheryn S.
+POL;1013;6;Office Hour;Monday;10:00 PM;10:50 PM;JPL 4.02.08;Katheryn S.
+POL;1013;7;Mathie, Mary;Monday ;3:00 PM;3:50 PM;JPL Study Room 7;Dylan D.
+POL;1013;7;Mathie, Mary;Tuesday;4:00 PM;4:50 PM;JPL Study Room 10;Dylan D.
+POL;1013;7;Mathie, Mary;Wednesday;6:00 PM;6:50 PM;JPL Study Room 3;Dylan D.
+POL;1013;7;Office Hour;Friday;10:00 AM;10:50 AM;JPL 4.02.08;Dylan D.
+POL;1013;8;Romero, David;Monday;6:00 PM;6:50 PM;MS 2.02.20;Erich H.
+POL;1013;8;Romero, David;Tuesday;4:00 PM;4:50 PM;JPL Study Room 11;Erich H.
+POL;1013;8;Romero, David;Friday;3:00 PM;3:50 PM;JPL Study Room 11;Erich H.
+POL;1013;8;Office Hour;Friday;11:00 AM;11:50 AM;JPL 4.02.08;Erich H.
+POL;1013;9 & 11;Roomberg, Susan;Monday;2:30 PM;3:20 PM;MH 2.02.20;Halli J.
+POL;1013;9 & 11;Roomberg, Susan;Tuesday;10:00 AM;10:50 AM;JPL Study Room 5;Halli J.
+POL;1014;9 & 11;Roomberg, Susan;Thursday;10:00 AM;10:50 AM;JPL Study Room 5;Halli J.
+POL;1013;9 & 11;Roomberg, Susan;Thursday;1:00 PM;1:50 PM;JPL Study Room 8;Halli J.
+POL;1013;9 & 11;Office Hour;Wednesday;2:30 PM;3:20 PM;JPL 4.02.08;Halli J.
+POL;1013;10 & 14;Albro, Ward;Tuesday;11:30 AM;12:20 PM;os MB 0.104;Shelbee P.
+POL;1013;10 & 14;Albro, Ward;Wednesday;10:00 AM;10:50 AM;JPL Study Room 5 ;Shelbee P.
+POL;1013;10 & 14;Albro, Ward;Thursday;11:30 AM;12:20 PM;os MB 0.104;Shelbee P.
+POL;1013;10 & 14;Office Hour;Monday;2:00 PM;2:50 PM;JPL 4.02.08;Shelbee P.
+POL;1013;13;Laracey, Melvin;Monday;1:00 PM;1:50 PM;JPL Study Room 7;Madison R.
+POL;1013;13;Laracey, Melvin;Wednesday;1:00 PM;1:50 PM;MH 3.03.12;Madison R.
+POL;1013;13;Laracey, Melvin;Thursday;10:00 AM;10:50 AM;JPL Study Room 7;Madison R.
+POL;1013;13;Office Hour;Tuesday;10:00 AM;10:50 AM;JPL 4.02.08;Madison R.
+POL;1133;3 & 7;Esparza, Henry;Monday;4:00 PM;4:50 PM;MH 2.01.08 ;Leah G.
+POL;1133;3 & 7;Esparza, Henry;Tuesday;4:00 PM;4:50 PM;JPL Study Room 4;Leah G.
+POL;1133;3 & 7;Esparza, Henry;Wednesday;1:00 PM;1:50 PM;JPL Study Room 4;Leah G.
+POL;1133;3 & 7;Esparza, Henry;Wednesday;4:00 PM;4:50 PM;MH 3.02.32;Leah G.
+POL;1133;3 & 7;Office Hour;Thursday;2:00 PM;2:50 PM;JPL 4.02.08;Leah G.
+POL;1133;4;Esparza, Henry;Tuesday;1:00 PM;1:50 PM;JPL Study Room 9;Tamarr D.
+POL;1133;4;Esparza, Henry;Wednesday;12:00 PM;12:50 PM;JPL Study Room 9;Tamarr D.
+POL;1133;4;Esparza, Henry;Wednesday;3:00 PM;3:50 PM;JPL Study Room 7;Tamarr D.
+POL;1133;4;Office Hour;Monday;3:00 PM;3:50 PM;JPL 4.02.08;Tamarr D.
+POL;1133;5 & 8;Navarro, Sharon;Monday;3:00 PM;3:50 PM;JPL Study Room 10;Gabriel A.
+POL;1133;5 & 8;Navarro, Sharon;Wednesday;3:00 PM;3:50 PM;MH 3.03.06;Gabriel A.
+POL;1133;5 & 8;Navarro, Sharon;Thursday;4:00 PM;4:50 PM;JPL Study Room 4;Gabriel A.
+POL;1133;5 & 8;Office Hour;Thursday;3:00 PM;3:50 PM;JPL 4.02.08;Gabriel A.
+POL;1133;9 & 10;Elarba, Bahih;Monday;12:00 PM;12:50 PM;JPL Study Room 6;Victoria B.
+POL;1133;9 & 10;Elarba, Bahih;Tuesday;12:00 PM;12:50 PM;JPL Study Room 7;Victoria B.
+POL;1133;9 & 10;Elarba, Bahih;Thursday;1:00 PM;1:50 PM;JPL Study Room 6;Victoria B.
+POL;1133;9 & 10;Office Hour;Friday;9:00 AM;9:50 AM;JPL 4.02.08;Victoria B.
+POL;1133;11;Elarba, Bahih;Tuesday ;1:00 PM;1:50 PM;os MB 0.106;Nicholas F.
+POL;1133;11;Elarba, Bahih;Wednesday ;3:00 PM;3:50 PM;JPL Study Room 3;Nicholas F.
+POL;1133;11;Elarba, Bahih;Thursday ;1:00 PM;1:50 PM;JPL Study Room 7;Nicholas F.
+POL;1133;11;Office Hour;Monday ;1:00 PM;1:50 PM;JPL 4.02.08;Nicholas F.
+PSY;1013;1 & 2;Wainright, Katherine;Monday;1:00 PM;1:50 PM;MH 3.03.06;Madison M.
+PSY;1013;1 & 2;Wainright, Katherine;Wednesday;12:00 PM;12:50 PM;MH 3.03.06;Madison M.
+PSY;1013;1 & 2;Wainright, Katherine;Thursday;1:00 PM;1:50 PM;MH 3.03.06;Madison M.
+PSY;1013;1 & 2;Office Hour;Wednesday;1:00 PM;1:50 PM;JPL 4.02.08;Madison M.
+PSY;1013;3;Buchalski, Brenya;Monday;2:00 PM;2:50 PM;MS 2.01.06;Alexis L.
+PSY;1013;3;Buchalski, Brenya;Wednesday;2:00 PM;2:50 PM;JPL Study Room 7;Alexis L.
+PSY;1013;3;Buchalski, Brenya;Friday;12:00 PM;12:50 PM;JPL Study Room 10;Alexis L.
+PSY;1013;3;Office Hour;Tuesday;12:00 PM;12:50 PM;JPL 4.02.08;Alexis L.
+PSY;1013;4 & 5;Previc, Fred;Monday;3:00 PM;3:50 PM;JPL Study Room 4;Alejandra G.
+PSY;1013;4 & 5;Previc, Fred;Tuesday;2:30 PM;3:20 PM;JPL Study Room 5;Alejandra G.
+PSY;1013;4 & 5;Previc, Fred;Wednesday;3:00 PM;3:50 PM;JPL Study Room 8;Alejandra G.
+PSY;1013;4 & 5;Previc, Fred;Thursday;2:30 PM;3:20 PM;JPL Study Room 5;Alejandra G.
+PSY;1013;4 & 5;Office Hour;Friday;11:00 AM;11:50 AM;JPL 4.02.08;Alejandra G.
+PSY;1013;6;Previc, Fred;Monday;2:00 PM;2:50 PM;JPL Study Room 8;Marissa B.
+PSY;1013;6;Previc, Fred;Tuesday;7:30 PM;8:20 PM;JPL Study Room 3;Marissa B.
+PSY;1013;6;Previc, Fred;Thursday;4:00 PM;4:50 PM;JPL Study Room 7;Marissa B.
+PSY;1013;6;Office Hour;Wednesday;3:00 PM;3:50 PM;JPL 4.02.08;Marissa B.
+PSY;2073;1 & 2;Achorn, Eileen;Monday;12:00 PM;12:50 PM;MH 3.03.06;Christina P.
+PSY;2073;1 & 2;Achorn, Eileen;Wednesday;12:00 PM;12:50 PM;MH 3.02.48;Christina P.
+PSY;2073;1 & 2;Achorn, Eileen;Wednesday;3:00 PM;3:50 PM;MH 3.03.12;Christina P.
+PSY;2073;1 & 2;Achorn, Eileen;Thursday;2:30 PM;3:20 PM;MH 3.03.10;Christina P.
+PSY;2073;1 & 2;Office Hour;Friday;12:00 PM;12:50 PM;JPL 4.02.08;Christina P.
+PSY;2073;3;Pillow, David;Monday;5:00 PM;5:50 PM;JPL Study Room 5;Brooke A.
+PSY;2073;3;Pillow, David;Monday;7:30 PM;8:20 PM;JPL Study Room 5;Brooke A.
+PSY;2073;3;Pillow, David;Wednesday;5:00 PM;5:50 PM;JPL Study Room 3;Brooke A.
+PSY;2073;3;Office Hour;Friday;12:00 PM;12:50 PM;JPL 4.02.08;Brooke A.
+PSY;2073;4;Crabtree, Meghan;Tuesday;1:00 PM;1:50 PM;JPL Study Room 11;Matthew E.
+PSY;2073;4;Crabtree, Meghan;Wednesday;12:00 PM;12:50 PM;JPL Study Room 11;Matthew E.
+PSY;2073;4;Crabtree, Meghan;Thursday;1:00 PM;1:50 PM;JPL Study Room 11;Matthew E.
+PSY;2073;4;Office Hour;Friday;12:00 PM;12:50 PM;JPL 4.02.08;Matthew E.
+PSY;2073;5;Hale, Willie;Tuesday;11:30 AM;12:20 PM;JPL Study Room 11;Shon T. B.
+PSY;2073;5;Hale, Willie;Thursday;11:30 AM;12:20 PM;JPL Study Room 10;Shon T. B.
+PSY;2073;5;Hale, Willie;Thursday;2:30 PM;3:20 PM;JPL Study Room 11;Shon T. B.
+PSY;2073;5;Office Hour;Monday;2:00 PM;2:50 PM;JPL 4.02.08;Shon T. B.
+PSY;2073;6;Dicocco, Margaret;Monday;11:00 AM;11:50 AM;JPL Study Room 4;Arthur H.
+PSY;2073;6;Dicocco, Margaret;Tuesday;5:00 PM;5:50 PM;JPL Study Room 4;Arthur H.
+PSY;2073;6;Dicocco, Margaret;Thursday;12:00 PM;12:50 PM;JPL Study Room 11;Arthur H.
+PSY;2073;6;Office Hour;Monday;12:00 PM;12:50 PM;JPL 4.02.08;Arthur H.
+SOC;1013;1;Miller, Donna;Monday;12:00 PM;12:50 PM;JPL Study Room 9;Cristina M.
+SOC;1013;1;Miller, Donna;Monday;4:00 PM;4:50 PM;JPL Study Room 10;Cristina M.
+SOC;1013;1;Miller, Donna;Tuesday;2:00 PM;2:50 PM;JPL Study Room 7;Cristina M.
+SOC;1013;1;Office Hour;Thursday;2:30 PM;3:20 PM;JPL 4.02.08;Cristina M.
+SOC;1013;2 & 7;Campbell, Favor;Monday;3:00 PM;3:50 PM;JPL Study Room 8;Shelbey U.
+SOC;1013;2 & 7;Campbell, Favor;Tuesday;12:00 PM;12:50 PM;JPL Study Room 8;Shelbey U.
+SOC;1013;2 & 7;Campbell, Favor;Wednesday;4:00 PM;4:50 PM;JPL Study Room 8;Shelbey U.
+SOC;1013;2 & 7;Campbell, Favor;Thursday;12:00 PM;12:50 PM;JPL Study Room 9;Shelbey U.
+SOC;1013;2 & 7;Office Hour;Tuesday;1:00 PM;1:50 PM;JPL 4.02.08;Shelbey U.
+SOC;1013;3 & 4;Ford-Robertson, Joanne;Tuesday;11:00 AM;11:50 AM;JPL Study Room 4;Miranda BG
+SOC;1013;3 & 4;Ford-Robertson, Joanne;Wednesday;4:00 PM;4:50 PM;JPL Study Room 5;Miranda BG
+SOC;1013;3 & 4;Ford-Robertson, Joanne;Thursday;12:00 PM;12:50 PM;JPL Study Room 7;Miranda BG
+SOC;1013;3 & 4;Ford-Robertson, Joanne;Friday;12:00 PM;12:50 PM;JPL Study Room 7;Miranda BG
+SOC;1013;3;Office Hour;Wednesday;12:00 PM;12:50 PM;JPL 4.02.08;Miranda BG
+SOC;1013;8;Frame, Nicole;Tuesday;4:00 PM;4:50 PM;JPL Study Room 8;Zena G.
+SOC;1013;8;Frame, Nicole;Wednesday;10:00 AM;10:50 AM;JPL Study Room 8;Zena G.
+SOC;1013;8;Frame, Nicole;Thursday;4:00 PM;4:50 PM;JPL Study Room 8;Zena G.
+SOC;1013;8;Office Hour;Monday;1:00 PM;1:50 PM;JPL 4.02.08;Zena G.
+STA;1053;1;Chacon, Henry;Monday;1:00 PM;1:50 PM;JPL Study Room 6;Keysean A.
+STA;1053;1;Chacon, Henry;Wednesday;3:00 PM;3:50 PM;JPL Study Room 6;Keysean A.
+STA;1053;1;Chacon, Henry;Friday;12:00 PM;12:50 PM;MH 3.03.06;Keysean A.
+STA;1053;1;Office Hour;Thursday;1:00 PM;1:50 PM;JPL 4.02.08;Keysean A.
+STA;1053;4 & 5;Massaro, Kimberly;Tuesday;1:00 PM;1:50 PM;os BB 2.01.10;Jalynn B.
+STA;1053;4 & 5;Massaro, Kimberly;Wednesday;12:00 PM;12:50 PM;JPL Study Room 10;Jalynn B.
+STA;1053;4 & 5;Massaro, Kimberly;Wednesday;2:00 PM;2:50 PM;MS 2.01.06;Jalynn B.
+STA;1053;4 & 5;Massaro, Kimberly;Thursday;1:00 PM;1:50 PM;os BB 2.01.10;Jalynn B.
+STA;1053;4 & 5;Office Hour;Monday;10:00 AM;10:50 AM;JPL 4.02.08;Jalynn B.
+STA;1053;6;Roy, Anuradha;Monday;2:00 PM;2:50 PM;JPL Study Room 3;Dumebi A.
+STA;1053;6;Roy, Anuradha;Tuesday;1:00 PM;1:50 PM;JPL Study Room 4;Dumebi A.
+STA;1053;6;Roy, Anuradha;Wednesday;2:00 PM;2:50 PM;JPL Study Room 4;Dumebi A.
+STA;1053;6;Office Hour;Tuesday;12:00 PM;12:50 PM;JPL 4.02.08;Dumebi A.
+STA;1053;7;De Oliveria, Victor;Tuesday;11:30 AM;12:20 PM;JPL Study Room 10;Tamarr D.
+STA;1053;7;De Oliveria, Victor;Wednesday;1:00 PM;1:50 PM;JPL Study Room 9;Tamarr D.
+STA;1053;7;De Oliveria, Victor;Thursday;12:00 PM;12:50 PM;JPL Study Room 6;Tamarr D.
+STA;1053;7;Office Hour;Monday;3:00 PM;3:50 PM;JPL 4.02.08;Tamarr D.
