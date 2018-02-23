@@ -21,7 +21,7 @@ def add_to_list(scheduleObj):
     #print(html_tags)
         
 def writeOutSchedule(dis):
-    outfile = open(dis+".html", "w+")
+    outfile = open(dis.lower()+".html", "w+")
     for item in html_tags:
         outfile.writelines(item)
     del html_tags[:]
