@@ -1,3 +1,3 @@
 Welcome
 
-I use these perl scripts to put html row/column tags.
+I use these scripts to put html row/column tags.
