@@ -48,7 +48,7 @@ while True:
         dis = scheduleObj[0]
         add_to_list(scheduleObj)
     else:
-        #does not work if it contains whitespace
+        # if cond does not work if it contains whitespace
         #fix later
         if dis not in scheduleObj[0]:
             writeOutSchedule(dis)
